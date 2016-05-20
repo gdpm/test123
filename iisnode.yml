@@ -1,0 +1,3 @@
+NODE_ENV: deploy
+loggingEnabled: true
+devErrorsEnabled: true
