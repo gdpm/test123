@@ -20,13 +20,14 @@
     "dialect": "mysql"
   },
   "deploy": {
-    "username": "root",
-    "password": "",
-    "database": "maindb",
-    "host": "127.0.0.1",
+    "username": "bbd651b19cb7a3",
+    "password": "fda1e612",
+    "database": "lolperformance_db",
+    "host": "eu-cdbr-azure-west-d.cloudapp.net",
+	"port": 3306,
     "dialect": "mysql",
     "pool": {
-      "maxConnections": 5,
+      "maxConnections": 4,
       "minConnections": 0,
       "maxIdleTime": 5000
     },
