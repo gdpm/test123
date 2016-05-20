@@ -1,0 +1,8 @@
+src/node_modules
+/node_modules
+/angular
+/css
+/libs
+*.html
+templates.js
+*.yml

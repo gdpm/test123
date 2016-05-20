@@ -1,0 +1,17 @@
+{
+  "name": "lolweb",
+  "version": "1.0.0",
+  "description": "website for lol",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node --harmony src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pInfestor@bitbucket.org/pInfestor/rito.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/pInfestor/rito#readme"
+}

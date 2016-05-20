@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "maindb",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "pool": {
+      "maxConnections": 5,
+      "minConnections": 0,
+      "maxIdleTime": 5000
+    },
+    "logging": null
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "deploy": {
+    "username": "root",
+    "password": "",
+    "database": "maindb",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "pool": {
+      "maxConnections": 5,
+      "minConnections": 0,
+      "maxIdleTime": 5000
+    },
+    "logging": null
+  }
+}
